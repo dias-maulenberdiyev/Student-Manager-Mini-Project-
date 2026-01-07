@@ -1,5 +1,3 @@
-# Student-Manager-Mini-Project-
-A simple Python CLI application for managing students and their grades.
 # Student Grade Manager (CLI)
 
 A simple Python command-line application to manage students and their grades.
